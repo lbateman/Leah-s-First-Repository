@@ -4,3 +4,5 @@ Questions? Reach me at my email at mcad dot edu. Thanks for reading!
 
 Best,
 Leah
+
+PS: So far, GitHub's much easier than the command line!
